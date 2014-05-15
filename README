@@ -1,0 +1,2 @@
+java -cp lib/bcel-5.2.jar:bin RDDU <class file> <dotty graph file> <du chain text file>
+
